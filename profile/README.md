@@ -60,7 +60,9 @@
 
 ## 📮 加入鼠群
 
-入群方式和最新公告请以[官网](https://mousebaoyan.github.io/join/)为准。凡是私下发来的「鼠群新群」群号或链接，都请不要相信。
+**QQ 群号：`832060453`（新群）** · [打开 QQ 加群链接](https://qun.qq.com/universal-share/share?ac=1&authKey=hLBR7ahTMLL7dYZ1c1wWuoyC7Ic%2FI9mCTgIm7gb2wOyyz3ytDUYifEd8mVMgKj2s&busi_data=eyJncm91cENvZGUiOiI4MzIwNjA0NTMiLCJ0b2tlbiI6Im1hTktnbjRYSjJqRzJ2blFzSWF0SnR0emFWS0hKZmZYWjRIUmN3YVVJQXB1aG5lbGdMOGtJWVdZbTM0VFJON0IiLCJ1aW4iOiIxMjQwODQwMDc2In0%3D&data=d3fE0eXph07S3dC9rQhZt1ShYIsMKtOUB0GKrHyS7nlAXgqll75UyJMcU6SRHonRDfdoK13LXznPXBd1l46ZQA&svctype=4&tempid=h5_group_info) · [查看入群指南](https://mousebaoyan.github.io/join/)
+
+原来的 QQ 群已被封禁，现在请加入新群「四非计算机保研群（新）」，申请时写明年级和本科院校。群号以后如有变化，都会第一时间发布在[官网](https://mousebaoyan.github.io/)；其他渠道私下发来的群号或链接，都请不要相信。
 
 <br />
 
