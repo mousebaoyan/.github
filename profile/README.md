@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://mousebaoyan.github.io/"><img src="assets/banner.png" alt="四非保研鼠群：计算机保研信息 · 保研资源 · 经验分享" width="100%" /></a>
+<a href="https://mousebaoyan.cn/"><img src="assets/banner.png" alt="四非保研鼠群：计算机保研信息 · 保研资源 · 经验分享" width="100%" /></a>
 
 <b>
-  <a href="https://mousebaoyan.github.io/">首页</a> ·
-  <a href="https://mousebaoyan.github.io/resources/">保研资源</a> ·
-  <a href="https://mousebaoyan.github.io/experiences/">保研经验</a> ·
-  <a href="https://mousebaoyan.github.io/talks/">直播回放</a> ·
-  <a href="https://mousebaoyan.github.io/faq/">常见问题</a> ·
-  <a href="https://mousebaoyan.github.io/join/">加入鼠群</a>
+  <a href="https://mousebaoyan.cn/">首页</a> ·
+  <a href="https://mousebaoyan.cn/resources/">保研资源</a> ·
+  <a href="https://mousebaoyan.cn/experiences/">保研经验</a> ·
+  <a href="https://mousebaoyan.cn/talks/">直播回放</a> ·
+  <a href="https://mousebaoyan.cn/faq/">常见问题</a> ·
+  <a href="https://mousebaoyan.cn/join/">加入鼠群</a>
 </b>
 
 </div>
@@ -26,21 +26,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 <a href="https://mousebaoyan.github.io/">保研日历</a></h3>
+      <h3>📅 <a href="https://mousebaoyan.cn/">保研日历</a></h3>
       按当天日期标出现在处在哪个阶段、该做什么、有哪些关键时间点，再配上群友去向路线图。
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://mousebaoyan.github.io/resources/">保研资源</a></h3>
+      <h3>📚 <a href="https://mousebaoyan.cn/resources/">保研资源</a></h3>
       按一年里用得上的时间排好的资源时间表：报名截止日期汇总、联系导师的邮件工具、夏令营报名自动填表插件。
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ <a href="https://mousebaoyan.github.io/experiences/">保研经验</a></h3>
+      <h3>✍️ <a href="https://mousebaoyan.cn/experiences/">保研经验</a></h3>
       群友写的保研经历：背景、准备过程、面试细节和最终去向，过来人的经验最实在。
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://mousebaoyan.github.io/talks/">直播回放</a></h3>
+      <h3>🎙️ <a href="https://mousebaoyan.cn/talks/">直播回放</a></h3>
       往期分享直播的回放和课件，课件可以在网页上逐页翻看，也能下载 PDF。
     </td>
   </tr>
@@ -60,9 +60,9 @@
 
 ## 📮 加入鼠群
 
-**QQ 群号：`832060453`（新群）** · [打开 QQ 加群链接](https://qun.qq.com/universal-share/share?ac=1&authKey=hLBR7ahTMLL7dYZ1c1wWuoyC7Ic%2FI9mCTgIm7gb2wOyyz3ytDUYifEd8mVMgKj2s&busi_data=eyJncm91cENvZGUiOiI4MzIwNjA0NTMiLCJ0b2tlbiI6Im1hTktnbjRYSjJqRzJ2blFzSWF0SnR0emFWS0hKZmZYWjRIUmN3YVVJQXB1aG5lbGdMOGtJWVdZbTM0VFJON0IiLCJ1aW4iOiIxMjQwODQwMDc2In0%3D&data=d3fE0eXph07S3dC9rQhZt1ShYIsMKtOUB0GKrHyS7nlAXgqll75UyJMcU6SRHonRDfdoK13LXznPXBd1l46ZQA&svctype=4&tempid=h5_group_info) · [查看入群指南](https://mousebaoyan.github.io/join/)
+**QQ 群号：`832060453`（新群）** · [打开 QQ 加群链接](https://qun.qq.com/universal-share/share?ac=1&authKey=hLBR7ahTMLL7dYZ1c1wWuoyC7Ic%2FI9mCTgIm7gb2wOyyz3ytDUYifEd8mVMgKj2s&busi_data=eyJncm91cENvZGUiOiI4MzIwNjA0NTMiLCJ0b2tlbiI6Im1hTktnbjRYSjJqRzJ2blFzSWF0SnR0emFWS0hKZmZYWjRIUmN3YVVJQXB1aG5lbGdMOGtJWVdZbTM0VFJON0IiLCJ1aW4iOiIxMjQwODQwMDc2In0%3D&data=d3fE0eXph07S3dC9rQhZt1ShYIsMKtOUB0GKrHyS7nlAXgqll75UyJMcU6SRHonRDfdoK13LXznPXBd1l46ZQA&svctype=4&tempid=h5_group_info) · [查看入群指南](https://mousebaoyan.cn/join/)
 
-原来的 QQ 群已被封禁，现在请加入新群「四非计算机保研群（新）」，申请时写明年级和本科院校。群号以后如有变化，都会第一时间发布在[官网](https://mousebaoyan.github.io/)；其他渠道私下发来的群号或链接，都请不要相信。
+原来的 QQ 群已被封禁，现在请加入新群「四非计算机保研群（新）」，申请时写明年级和本科院校。群号以后如有变化，都会第一时间发布在[官网](https://mousebaoyan.cn/)；其他渠道私下发来的群号或链接，都请不要相信。
 
 <br />
 
