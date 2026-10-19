@@ -3,7 +3,8 @@
 <a href="https://mousebaoyan.cn/"><img src="assets/banner.png" alt="四非保研鼠群：计算机保研信息 · 保研资源 · 经验分享" width="100%" /></a>
 
 <b>
-  <a href="https://mousebaoyan.cn/">首页</a> ·
+  <a href="https://mousebaoyan.cn/">官网</a> ·
+  <a href="https://bbs.mousebaoyan.cn/">鼠洞论坛</a> ·
   <a href="https://mousebaoyan.cn/resources/">保研资源</a> ·
   <a href="https://mousebaoyan.cn/experiences/">保研经验</a> ·
   <a href="https://mousebaoyan.cn/talks/">直播回放</a> ·
@@ -15,57 +16,80 @@
 
 <br />
 
-## 🐭 关于鼠群
+## 关于鼠群
 
-我们是一群来自**四非院校**、学**计算机相关专业**的同学。保研路上信息不对称，四非同学尤其吃亏，所以我们把招生信息、实用资源和亲身经历整理出来，互相帮一把。
+四非保研鼠群由来自**四非院校**、就读**计算机相关专业**的同学组成。保研过程中信息不对称的问题普遍存在，四非院校的同学尤其明显。鼠群整理招生信息、实用资源和亲身经历，供同学们互相参考。
 
-鼠群里有 1000 多位群友，各个年级都有，也有不少已经上岸的学长学姐。**入群和日常交流都免费**，鼠群不提供付费辅导。
+鼠群现有 1000 多位成员，覆盖各个年级，其中不少已经完成保研。**入群和日常交流均免费**，鼠群不提供任何付费辅导。
 
-## 🧀 在鼠群能找到什么
+## 鼠群提供的内容
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 <a href="https://mousebaoyan.cn/">保研日历</a></h3>
-      按当天日期标出现在处在哪个阶段、该做什么、有哪些关键时间点，再配上群友去向路线图。
+      <h3><a href="https://bbs.mousebaoyan.cn/">鼠洞论坛</a></h3>
+      鼠群自己的论坛，设有保研问答、经验分享、院校交流等版块。群内有价值的讨论会整理成帖子长期保存，访客可以浏览，成员使用 QQ 号登录后发帖和回复。
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://mousebaoyan.cn/resources/">保研资源</a></h3>
-      按一年里用得上的时间排好的资源时间表：报名截止日期汇总、联系导师的邮件工具、夏令营报名自动填表插件。
+      <h3><a href="https://mousebaoyan.cn/">保研日历</a></h3>
+      按当天日期标出当前所处的阶段、需要完成的事项和关键时间点，并附有历届成员的去向路线图。
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ <a href="https://mousebaoyan.cn/experiences/">保研经验</a></h3>
-      群友写的保研经历：背景、准备过程、面试细节和最终去向，过来人的经验最实在。
+      <h3><a href="https://mousebaoyan.cn/resources/">保研资源</a></h3>
+      按全年时间顺序排列的资源时间表，包括报名截止日期汇总、联系导师的邮件工具和夏令营报名自动填表插件。
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://mousebaoyan.cn/talks/">直播回放</a></h3>
-      往期分享直播的回放和课件，课件可以在网页上逐页翻看，也能下载 PDF。
+      <h3><a href="https://mousebaoyan.cn/experiences/">保研经验</a></h3>
+      成员撰写的保研经历，涵盖个人背景、准备过程、面试细节和最终去向。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://mousebaoyan.cn/talks/">直播回放</a></h3>
+      往期分享直播的回放和课件，课件可以在网页上逐页查看，也可以下载 PDF。
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://mousebaoyan.cn/faq/">常见问题</a></h3>
+      入群范围、收费说明、资料获取方式和交流规则。
     </td>
   </tr>
 </table>
 
-## 🤝 参与贡献
+## 分享经验与推荐资源
 
-不需要会写代码，填一张 GitHub 表单就能投稿，管理员审核后会自动发布到网站。
+官网已不再收录新的投稿，已发布的经验贴和资源继续保留。分享保研经验或推荐实用资源，请发布到鼠洞论坛的对应版块：
 
 <p>
-  <a href="https://github.com/mousebaoyan/mousebaoyan.github.io/issues/new?template=experience-submission.yml"><img src="assets/btn-experience.png" alt="分享保研经验" height="44" /></a>
+  <a href="https://bbs.mousebaoyan.cn/b/experience"><img src="assets/btn-experience.png" alt="分享保研经验" height="44" /></a>
   &nbsp;
-  <a href="https://github.com/mousebaoyan/mousebaoyan.github.io/issues/new?template=resource-submission.yml"><img src="assets/btn-resource.png" alt="推荐好用资源" height="44" /></a>
+  <a href="https://bbs.mousebaoyan.cn/b/tools"><img src="assets/btn-resource.png" alt="推荐好用资源" height="44" /></a>
 </p>
 
-熟悉 Git 的话，也欢迎直接给 [mousebaoyan.github.io](https://github.com/mousebaoyan/mousebaoyan.github.io) 提 Issue 或 Pull Request。
+对官网和论坛的意见建议，欢迎发布到论坛的[「反馈建议」](https://bbs.mousebaoyan.cn/b/feedback)版块。
 
-## 📮 加入鼠群
+## 开源项目
 
-**QQ 群号：`832060453`（新群）** · [打开 QQ 加群链接](https://qun.qq.com/universal-share/share?ac=1&authKey=hLBR7ahTMLL7dYZ1c1wWuoyC7Ic%2FI9mCTgIm7gb2wOyyz3ytDUYifEd8mVMgKj2s&busi_data=eyJncm91cENvZGUiOiI4MzIwNjA0NTMiLCJ0b2tlbiI6Im1hTktnbjRYSjJqRzJ2blFzSWF0SnR0emFWS0hKZmZYWjRIUmN3YVVJQXB1aG5lbGdMOGtJWVdZbTM0VFJON0IiLCJ1aW4iOiIxMjQwODQwMDc2In0%3D&data=d3fE0eXph07S3dC9rQhZt1ShYIsMKtOUB0GKrHyS7nlAXgqll75UyJMcU6SRHonRDfdoK13LXznPXBd1l46ZQA&svctype=4&tempid=h5_group_info) · [查看入群指南](https://mousebaoyan.cn/join/)
+| 仓库 | 说明 |
+| --- | --- |
+| [mousebaoyan.github.io](https://github.com/mousebaoyan/mousebaoyan.github.io) | 鼠群官网，基于 Astro，部署在 GitHub Pages |
+| [mousehole](https://github.com/mousebaoyan/mousehole) | 鼠洞论坛，基于 React Router 8、Hono 和 PostgreSQL |
+| [astrbot_plugin_mousehole](https://github.com/mousebaoyan/astrbot_plugin_mousehole) | 鼠洞的 AstrBot 插件，负责成员同步、经 bot 登录和群聊内容收录 |
 
-原来的 QQ 群已被封禁，现在请加入新群「四非计算机保研群（新）」，申请时写明年级和本科院校。群号以后如有变化，都会第一时间发布在[官网](https://mousebaoyan.cn/)；其他渠道私下发来的群号或链接，都请不要相信。
+## 加入鼠群
+
+| 群 | 群号 | 入群链接 |
+| --- | --- | --- |
+| 四非计算机保研群（一） | `742203503` | [打开入群链接](https://qm.qq.com/q/20geYjRZlq) |
+| 四非计算机保研群（二） | `832060453` | [打开入群链接](https://qun.qq.com/universal-share/share?ac=1&authKey=hLBR7ahTMLL7dYZ1c1wWuoyC7Ic%2FI9mCTgIm7gb2wOyyz3ytDUYifEd8mVMgKj2s&busi_data=eyJncm91cENvZGUiOiI4MzIwNjA0NTMiLCJ0b2tlbiI6Im1hTktnbjRYSjJqRzJ2blFzSWF0SnR0emFWS0hKZmZYWjRIUmN3YVVJQXB1aG5lbGdMOGtJWVdZbTM0VFJON0IiLCJ1aW4iOiIxMjQwODQwMDc2In0%3D&data=d3fE0eXph07S3dC9rQhZt1ShYIsMKtOUB0GKrHyS7nlAXgqll75UyJMcU6SRHonRDfdoK13LXznPXBd1l46ZQA&svctype=4&tempid=h5_group_info) |
+
+请优先加入一群，一群满员后再加入二群；申请时请写明年级和本科院校。详见[入群指南](https://mousebaoyan.cn/join/)。
+
+群号如有变化，会第一时间在[官网](https://mousebaoyan.cn/)公布。通过其他渠道私下发来的群号或链接，请勿轻信。
 
 <br />
 
 <div align="center">
-  <sub>从四非出发，一起上岸 🐭</sub>
+  <sub>从四非出发，一起上岸</sub>
 </div>
