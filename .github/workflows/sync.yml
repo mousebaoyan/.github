@@ -24,4 +24,4 @@ jobs:
           gh auth setup-git
           git config --global user.name "$APP_SLUG[bot]"
           git config --global user.email "$(gh api "/users/$APP_SLUG[bot]" --jq .id)+$APP_SLUG[bot]@users.noreply.github.com"
-          ./sync.sh mousehole:pr mouseclock:pr astrbot_plugin_mousehole:push mousebaoyan.github.io:push
+          ./sync.sh mousehole:pr mouseclock:pr astrbot_plugin_mousehole:push mousebaoyan.github.io:push mousehole-plugin:pr
