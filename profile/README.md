@@ -76,6 +76,7 @@
 | [mousebaoyan.github.io](https://github.com/mousebaoyan/mousebaoyan.github.io) | 鼠群官网，基于 Astro，部署在 GitHub Pages |
 | [mousehole](https://github.com/mousebaoyan/mousehole) | 鼠洞论坛，基于 React Router 8、Hono 和 PostgreSQL |
 | [astrbot_plugin_mousehole](https://github.com/mousebaoyan/astrbot_plugin_mousehole) | 鼠洞的 AstrBot 插件，负责成员同步、经 bot 登录和群聊内容收录 |
+| [mouseclock](https://github.com/mousebaoyan/mouseclock) | 鼠钟，自动收集各学院的保研通知，整理出截止时间并在到期前提醒，正在开发 |
 
 ## 加入鼠群
 
