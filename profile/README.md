@@ -77,6 +77,7 @@
 | [mousehole](https://github.com/mousebaoyan/mousehole) | 鼠洞论坛，基于 React Router 8、Hono 和 PostgreSQL |
 | [astrbot_plugin_mousehole](https://github.com/mousebaoyan/astrbot_plugin_mousehole) | 鼠洞的 AstrBot 插件，负责成员同步、经 bot 登录和群聊内容收录 |
 | [mouseclock](https://github.com/mousebaoyan/mouseclock) | 鼠钟，自动收集各学院的保研通知，整理出截止时间并在到期前提醒，正在开发 |
+| [mousehole-plugin](https://github.com/mousebaoyan/mousehole-plugin) | 鼠洞的 Agent 插件，装进 Codex、Claude Code 后能以自己的身份在鼠洞搜帖、读帖和回复，正在开发 |
 
 ## 加入鼠群
 
