@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Copies the shared section of this repo's AGENTS.md into the same section of
 # each target repo's AGENTS.md. Each argument is repo:mode, where mode is "pr"
-# (open or refresh a PR) or "push" (commit straight to main), matching how that
-# repo takes changes.
+# (open or refresh a PR that merges itself once the repo's checks pass) or
+# "push" (commit straight to main), matching how that repo takes changes.
 set -euo pipefail
 
 start='<!-- 鼠群通用约定开始 -->'
@@ -43,8 +43,13 @@ for target in "$@"; do
     git -C "$dir" push -qf origin "$branch"
     if [[ $(gh pr list -R "mousebaoyan/$repo" --head "$branch" --json number --jq length) == 0 ]]; then
       gh pr create -R "mousebaoyan/$repo" --head "$branch" --title "同步鼠群通用约定" \
-        --body "把 AGENTS.md 里的「鼠群通用约定」一节换成 [mousebaoyan/.github](https://github.com/mousebaoyan/.github/commits/main/AGENTS.md) 的最新版本，只改了这一节。"
+        --body "把 AGENTS.md 里的「鼠群通用约定」一节换成 [mousebaoyan/.github](https://github.com/mousebaoyan/.github/commits/main/AGENTS.md) 的最新版本，只改了这一节。仓库要求的检查通过后自动合并。"
     fi
+    # GitHub refuses auto-merge on a PR that is already mergeable, which right
+    # after the push gh can't always tell yet. A direct merge still has to pass
+    # the repo's rules.
+    gh pr merge "$branch" -R "mousebaoyan/$repo" --auto --squash ||
+      gh pr merge "$branch" -R "mousebaoyan/$repo" --squash
   else
     git -C "$dir" commit -qam "$message"
     git -C "$dir" push -q origin HEAD

@@ -12,8 +12,8 @@
 | `sync.sh`、`.github/workflows/sync.yml` | 把通用约定同步进各仓库的 AGENTS.md |
 
 - 改动在分支上做，通过 PR 合入 `main`，维护者审查后 squash 合并。
-- 同步：合入 `main` 后，`sync.yml` 用组织的 GitHub App mousebaoyan-sync 运行 `sync.sh`，把下面两行标记之间的内容换进各仓库 AGENTS.md 里同样的位置。各仓库按 `sync.yml` 里写的方式收改动：`pr` 开 PR，`push` 直接提交到 `main`。App 的私钥在 secret `SYNC_APP_PRIVATE_KEY`，Client ID 在变量 `SYNC_APP_CLIENT_ID`。
-- 新仓库加入：放好标记后把它加进 `sync.yml` 的列表，再在 Actions 里手动运行一次同步。
+- 同步：合入 `main` 后，`sync.yml` 用组织的 GitHub App mousebaoyan-sync 运行 `sync.sh`，把下面两行标记之间的内容换进各仓库 AGENTS.md 里同样的位置。各仓库按 `sync.yml` 里写的方式收改动：`pr` 开 PR，等仓库要求的检查通过后自动合并；`push` 直接提交到 `main`。App 的私钥在 secret `SYNC_APP_PRIVATE_KEY`，Client ID 在变量 `SYNC_APP_CLIENT_ID`。
+- 新仓库加入：放好标记后把它加进 `sync.yml` 的列表，再在 Actions 里手动运行一次同步。用 `pr` 的仓库要在设置里打开 Allow auto-merge。
 - `sync.sh` 也能在本机运行，用的是自己的 GitHub 账号。
 
 <!-- 鼠群通用约定开始 -->
@@ -155,7 +155,7 @@
 
 - AGENTS.md 只写每次干活都用得上的规矩：只和某一部分相关的写进对应的文档，在索引里指过去；能由工具检查的写进工具配置。
 - 各仓库 AGENTS.md 前面的部分只写本项目特有的规矩，以及对通用约定的补充和例外，不把通用约定里已有的话再写一遍。
-- 要改或新增的规矩如果各项目都适用，就改通用约定：到 [mousebaoyan/.github](https://github.com/mousebaoyan/.github) 改它 AGENTS.md 里的这一节，提 PR；不写进本项目的部分，也不直接改各仓库里同步来的这一节。合并后自动同步到各仓库，按各仓库收改动的方式开 PR 或直接提交。
+- 要改或新增的规矩如果各项目都适用，就改通用约定：到 [mousebaoyan/.github](https://github.com/mousebaoyan/.github) 改它 AGENTS.md 里的这一节，提 PR；不写进本项目的部分，也不直接改各仓库里同步来的这一节。合并后自动同步到各仓库，按各仓库收改动的方式直接提交，或者开 PR、等 CI 通过后自动合并。
 - 发现本项目的某条规矩其实各项目都适用，或者和通用约定重复，就挪进通用约定。
 - 鼠群新建的仓库也用这份约定：在它的 AGENTS.md 末尾放上这一节的两行标记，再按 `.github` 仓库的说明把它加进同步列表。
 <!-- 鼠群通用约定结束 -->
